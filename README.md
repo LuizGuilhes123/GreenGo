@@ -31,4 +31,6 @@ GreenGo é um projeto que visa facilitar a conexão entre ONGs e empresas com fo
    git clone https://github.com/seuusuario/GreenGo.git
    cd GreenGo
 Instale as dependências: mvn install
+
+
 Execute o projeto: mvn spring-boot:run
